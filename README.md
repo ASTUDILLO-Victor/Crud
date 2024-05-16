@@ -8,13 +8,14 @@ PARA ASÍ SEPARAR RESPONSABILIDADES Y NO TENER TODO EN UNA SOLA HOJA DE PHP LO C
 ## Screenshots
 FORMULARIO             |  CARPETAS          |  BASE DE DATOS
 :-------------------------:|:-------------------------:|:-------------------------:
-![image](https://github.com/ASTUDILLO-Victor/Crud/assets/167276606/2e7f8536-0090-4574-b7dc-4f35718c1050)| ![image](https://github.com/ASTUDILLO-Victor/prueba-poo/assets/167276606/98bdcb15-917c-4c10-8624-f62dfd029e94)| ![image](https://github.com/ASTUDILLO-Victor/prueba-poo/assets/167276606/a79cdf57-3904-4128-8020-c50fdc4a2536)
+![image](https://github.com/ASTUDILLO-Victor/Crud/assets/167276606/2e7f8536-0090-4574-b7dc-4f35718c1050)|![image](https://github.com/ASTUDILLO-Victor/Crud/assets/167276606/dc40982e-e296-4b27-bfb2-1e89c0ebc3b6)|![image](https://github.com/ASTUDILLO-Victor/Crud/assets/167276606/31b7a233-91f8-40b0-9195-26fcbd768f49)
 
 
 
 
 
 
+``
 
 
 ## Features
